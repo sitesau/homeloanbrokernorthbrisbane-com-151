@@ -1,0 +1,19 @@
+{
+  "wheel_id": 375,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-com-151",
+  "project": "home-loan-brokers-north-brisbane-455027f7c271de2c88ee6608743",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane.com-007",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "home loan brokers north brisbane",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-north-brisbane-455027f7c271de2c88ee6608743/",
+  "writeback_nonce": "6a4491edaab9c96a",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/home-loan-brokers-north-brisbane/",
+      "anchor": "home loan brokers north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
